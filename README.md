@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 # Breast Cancer Detection App
 
 This is a simple web application built using Streamlit that predicts the likelihood of breast cancer based on several medical features. The prediction model is based on a Logistic Regression model trained with the Breast Cancer Wisconsin dataset.
